@@ -155,11 +155,11 @@ button {
 /* tablet */
 @media (max-width: 768px) {
   html {
-    font-size: 40%;
+    font-size: 35%;
   }
 }
 @media (max-width: 576px) {
   html {
-    font-size: 40%;
+    font-size: 33%;
   }
 }
